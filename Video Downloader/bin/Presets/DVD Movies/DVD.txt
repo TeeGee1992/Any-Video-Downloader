@@ -1,0 +1,27 @@
+[DVD Video NTSC Movie (*.mpg)]
+Profile=MPG - MPG Movie (*.mpg)
+audio_Codec=ac3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=48000
+video_Codec=mpeg2
+video_Bitrate=8000
+video_Size=720x480
+video_Framerate=29.97
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=-target ntsc-dvd
+
+[DVD Video PAL Movie (*.mpg)]
+Profile=MPG - MPG Movie (*.mpg)
+audio_Codec=ac3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=48000
+video_Codec=mpeg2
+video_Bitrate=8000
+video_Size=720x576
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=-target pal-dvd

@@ -1,0 +1,55 @@
+[Samsung TV H264 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=4000
+video_Size=1920x1080
+video_Framerate=24
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[LG TV H264 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=4000
+video_Size=1920x1080
+video_Framerate=24
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Sony TV H264 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=4000
+video_Size=1920x1080
+video_Framerate=24
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Panasonic TV H264 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=4000
+video_Size=1920x1080
+video_Framerate=24
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=

@@ -1,0 +1,55 @@
+[Microsoft Zune WMV Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=768
+video_Size=320x240
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Microsoft Zune MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=768
+video_Size=320x240
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Microsoft Zune HD WMV Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=1500
+video_Size=480x272
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Microsoft Zune HD MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=1500
+video_Size=480x272
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=

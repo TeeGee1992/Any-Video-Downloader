@@ -1,0 +1,13 @@
+[Nintendo Wii AVI Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=pcm
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mjpeg
+video_Bitrate=768
+video_Size=720x480
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=

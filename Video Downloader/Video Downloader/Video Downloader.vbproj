@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{63E67FF1-429B-4CB9-8A17-68D9933FA7A9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Video_Downloader.My.MyApplication</StartupObject>
+    <RootNamespace>Video_Downloader</RootNamespace>
+    <AssemblyName>Video Downloader</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Video Downloader.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DocumentationFile>Video Downloader.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Downloader.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing.Drawing2D" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Control.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMediaInfo.Designer.vb">
+      <DependentUpon>frmMediaInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMediaInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewDownload.Designer.vb">
+      <DependentUpon>frmNewDownload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewDownload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPresetMananger.Designer.vb">
+      <DependentUpon>frmPresetMananger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPresetMananger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\Helper.vb" />
+    <Compile Include="Class\IniFile.vb" />
+    <Compile Include="Class\Mediainfo.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMediaInfo.resx">
+      <DependentUpon>frmMediaInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewDownload.resx">
+      <DependentUpon>frmNewDownload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPresetMananger.resx">
+      <DependentUpon>frmPresetMananger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ac3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m2ts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m4a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mp4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mpg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mov.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mp3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ogg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wmv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Output.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Downloader.ico" />
+    <None Include="Resources\Shield.png" />
+    <None Include="Resources\cancel_16.png" />
+    <None Include="Resources\Presets.png" />
+    <None Include="Resources\OpenAndConvert.png" />
+    <None Include="Resources\Fileinfo.png" />
+    <None Include="Resources\Downloads.png" />
+    <None Include="Resources\Clear.png" />
+    <None Include="Resources\Resume1.png" />
+    <None Include="Resources\NewDownload.png" />
+    <None Include="Resources\Download.png" />
+    <None Include="Resources\Convert.png" />
+    <None Include="Resources\About.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

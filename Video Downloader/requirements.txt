@@ -1,0 +1,11 @@
+FFmpeg.exe
+https://www.ffmpeg.org/
+https://www.gyan.dev/ffmpeg/builds/#release-builds
+
+MediaInfo.dll
+https://mediaarea.net/en/MediaInfo
+https://mediaarea.net/download/binary/mediainfo-graph-plugin/24.11/MediaInfo_GraphPlugin_CLI_24.11_Windows_i386.zip
+
+yt-dlp.exe
+https://github.com/yt-dlp
+https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe

@@ -1,0 +1,27 @@
+[Microsoft Surface RT Tablet MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=2500
+video_Size=1366x768
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Microsoft Surface PRO Tablet MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=2500
+video_Size=1920x1080
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=

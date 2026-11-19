@@ -1,0 +1,139 @@
+[Apple iPad 1st Generation MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=768
+video_Size=1024x768
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad Mini MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=1500
+video_Size=1024x768
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad 2/3 Mini MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=1500
+video_Size=1920x1080
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad 4 MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=1500
+video_Size=1920x1080
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad 4 Mini MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=2000
+video_Size=1920x1080
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad Retina MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=2500
+video_Size=1280x720
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad Retina Mini MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=3000
+video_Size=2560x1440
+video_Framerate=30
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad Air/Air2 MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=2500
+video_Size=1920x1080
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad Pro 9.7" MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=2500
+video_Size=1920x1080
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPad Pro MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=3000
+video_Size=2560x1440
+video_Framerate=30
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=

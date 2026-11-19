@@ -1,0 +1,67 @@
+[Archos 105 Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Bitrate=64
+audio_Chanel=2 (Stereo)
+audio_Samplerate=24000
+video_Bitrate=256
+video_Size=160x128
+video_Framerate=15
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Archos 404/405 Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=XviD
+video_Bitrate=512
+video_Size=480x272
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Archos 505/604 Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=XviD
+video_Bitrate=768
+video_Size=480x272
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Archos 605/705/TV+ Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=XviD
+video_Bitrate=768
+video_Size=720x480
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Archos AV500/700 Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=XviD
+video_Bitrate=512
+video_Size=480x272
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=

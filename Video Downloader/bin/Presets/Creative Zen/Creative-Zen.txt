@@ -1,0 +1,69 @@
+[Creative Zen X-Fi Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=384
+video_Size=320x240
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Creative Zen Touch 2 Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=768
+video_Size=480x320
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Creative Zen Vision Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=384
+video_Size=320x240
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Creative Zen Vision M Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=384
+video_Size=320x240
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Creative Zen Vision W Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=384
+video_Size=480x272
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=

@@ -1,0 +1,83 @@
+[Blackberry MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=64
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=512
+video_Size=320x240
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Blackberry Z10 MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=160
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=1500
+video_Size=1280x768
+video_Framerate=24
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Blackberry Q5/10 MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=1024
+video_Size=720x720
+video_Framerate=24
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Blackberry Bold MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=768
+video_Size=480x320
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Blackberry Torch MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=768
+video_Size=480x360
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Blackberry Curve MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=768
+video_Size=320x240
+video_Framerate=24
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=

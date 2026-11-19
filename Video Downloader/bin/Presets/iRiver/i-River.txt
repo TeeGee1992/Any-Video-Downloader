@@ -1,0 +1,83 @@
+[iRiver E10 Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=256
+video_Size=128x128
+video_Framerate=15
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[iRiver U10/Clix Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=256
+video_Size=220x176
+video_Framerate=15
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[iRiver B20/X20/Clix 2/E100/Lplayer Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=384
+video_Size=320x240
+video_Framerate=15
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[iRiver Spinn/D28/DICPLE D30 Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=384
+video_Size=480x270
+video_Framerate=15
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[iRiver P10/P20 Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=512
+video_Size=640x272
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[iRiver PMP-120/140/IMP-1000/1100 Movie (*.avi)]
+Profile=AVI - Audio Video Interleave (*.avi)
+audio_Codec=mp3
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=XviD
+video_Bitrate=512
+video_Size=640x480
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=

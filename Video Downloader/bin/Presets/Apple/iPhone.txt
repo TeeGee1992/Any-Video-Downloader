@@ -1,0 +1,189 @@
+[Apple iPhone 1st Generation/3G/3GS MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=mpeg4
+video_Bitrate=768
+video_Size=640x480
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPhone 4 MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=1024
+video_Size=800x600
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPhone 4S MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=1500
+video_Size=1280x720
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPhone 5/5C/5S MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=2000
+video_Size=1280x720
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPhone 6 MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=1500
+video_Size=1280x720
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPhone 6 Plus MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=160
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=4000
+video_Size=1920x1080
+video_Framerate=30
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPhone 6s MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=1500
+video_Size=1280x720
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Apple iPhone 6s Plus MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=160
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=4000
+video_Size=1920x1080
+video_Framerate=30
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+[Apple iPhone SE MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=1500
+video_Size=1280x720
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+[Apple iPhone 7 MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=3000
+video_Size=1280x720
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+[Apple iPhone 7 Plus MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=160
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=5000
+video_Size=1920x1080
+video_Framerate=30
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+[Apple iPhone 8 MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=160
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=4000
+video_Size=1280x720
+video_Framerate=30
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+[Apple iPhone 8 Plus MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=160
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=6000
+video_Size=1920x1080
+video_Framerate=30
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+[Apple iPhone X/XS/XS Max/11 Pro/11 Pro Max MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=192
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=8000
+video_Size=2560x1440
+video_Framerate=60
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=

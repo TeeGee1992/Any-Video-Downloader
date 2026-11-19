@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.12.12405.243 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Video Downloader", "Video Downloader\Video Downloader.vbproj", "{63E67FF1-429B-4CB9-8A17-68D9933FA7A9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Updater", "Updater\Updater.vbproj", "{71D8583C-579A-4004-8440-6A3A2B503900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E67FF1-429B-4CB9-8A17-68D9933FA7A9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{63E67FF1-429B-4CB9-8A17-68D9933FA7A9}.Debug|x86.ActiveCfg = Debug|x86
+		{63E67FF1-429B-4CB9-8A17-68D9933FA7A9}.Debug|x86.Build.0 = Debug|x86
+		{63E67FF1-429B-4CB9-8A17-68D9933FA7A9}.Release|Any CPU.ActiveCfg = Release|x86
+		{63E67FF1-429B-4CB9-8A17-68D9933FA7A9}.Release|x86.ActiveCfg = Release|x86
+		{63E67FF1-429B-4CB9-8A17-68D9933FA7A9}.Release|x86.Build.0 = Release|x86
+		{71D8583C-579A-4004-8440-6A3A2B503900}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{71D8583C-579A-4004-8440-6A3A2B503900}.Debug|x86.ActiveCfg = Debug|x86
+		{71D8583C-579A-4004-8440-6A3A2B503900}.Debug|x86.Build.0 = Debug|x86
+		{71D8583C-579A-4004-8440-6A3A2B503900}.Release|Any CPU.ActiveCfg = Release|x86
+		{71D8583C-579A-4004-8440-6A3A2B503900}.Release|x86.ActiveCfg = Release|x86
+		{71D8583C-579A-4004-8440-6A3A2B503900}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF472A4-18A2-409B-94B2-71B90333408B}
+	EndGlobalSection
+EndGlobal

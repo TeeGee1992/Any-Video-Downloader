@@ -1,0 +1,41 @@
+[Apple TV MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Channel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=XviD
+video_Bitrate=512
+video_Size=480x320
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume.Value=100
+Additional_Parameter=
+
+[Apple TV MPEG-4 AVC Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=160
+audio_Channel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=XviD
+video_Bitrate=512
+video_Size=480x320
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume.Value=100
+Additional_Parameter=
+
+[Apple TV III MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=192
+audio_Channel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=XviD
+video_Bitrate=512
+video_Size=480x320
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume.Value=100
+Additional_Parameter=

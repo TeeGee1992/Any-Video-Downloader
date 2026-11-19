@@ -1,0 +1,41 @@
+[Sony PSP MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=22050
+video_Codec=mpeg4
+video_Bitrate=512
+video_Size=368x208
+video_Framerate=29.97
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Sony PSP MPEG-4 AVC Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=96
+audio_Chanel=2 (Stereo)
+audio_Samplerate=22050
+video_Codec=x264
+video_Bitrate=512
+video_Size=480x272
+video_Framerate=29.97
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Sony PSP PSVita MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=48000
+video_Codec=x264
+video_Bitrate=1500
+video_Size=960x544
+video_Framerate=29.97
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=

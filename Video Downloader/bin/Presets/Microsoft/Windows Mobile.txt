@@ -1,0 +1,125 @@
+[Windows Phone MPEG-4 Movie (*.mp4)]
+Profile=MP4 - MPEG-4 Movie (*.mp4)
+audio_Codec=aac
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=x264
+video_Bitrate=2500
+video_Size=800x480
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Dell Axim 51 Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=768
+video_Size=320x240
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Dell Axim 51V Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=768
+video_Size=640x480
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[HP iPAQ hw6500 Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=768
+video_Size=240x240
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[HP iPAQ hw2000/rx3000/rx1900 Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=768
+video_Size=320x240
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[HP iPAQ hx4700 Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=768
+video_Size=640x480
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[Palm Treo Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=384
+video_Size=320x240
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[HTC Touch Diamond Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=768
+video_Size=640x480
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[General Pocket PC Movie (*.wmv)]
+Profile=WMV - Windows Media Video (*.wmv)
+audio_Codec=wma2
+audio_Bitrate=128
+audio_Chanel=2 (Stereo)
+audio_Samplerate=44100
+video_Codec=wmv2
+video_Bitrate=768
+video_Size=320x240
+video_Framerate=25
+video_AspectRatio=4:3 (Fullscreen)
+ConverterVolume=100
+Additional_Parameter=

@@ -1,0 +1,59 @@
+C:\Users\Admin\Documents\TGFiles\Video Downloader\bin\Video Downloader.exe.config
+C:\Users\Admin\Documents\TGFiles\Video Downloader\bin\Video Downloader.exe
+C:\Users\Admin\Documents\TGFiles\Video Downloader\bin\Video Downloader.pdb
+C:\Users\Admin\Documents\TGFiles\Video Downloader\bin\Video Downloader.xml
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmMain.resources
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmMediaInfo.resources
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmNewDownload.resources
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmPresetManager.resources
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.Resources.resources
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.GenerateResource.cache
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.exe
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.xml
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.pdb
+C:\Users\Admin\Documents\TGFiles\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbprojAssemblyReference.cache
+C:\Users\Admin\Documents\Projects\Video Downloader\bin\Video Downloader.exe.config
+C:\Users\Admin\Documents\Projects\Video Downloader\bin\Video Downloader.exe
+C:\Users\Admin\Documents\Projects\Video Downloader\bin\Video Downloader.pdb
+C:\Users\Admin\Documents\Projects\Video Downloader\bin\Video Downloader.xml
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmMain.resources
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmMediaInfo.resources
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmNewDownload.resources
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmPresetManager.resources
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.Resources.resources
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.GenerateResource.cache
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.exe
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.xml
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.pdb
+C:\Users\Admin\Documents\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\bin\Video Downloader.exe.config
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\bin\Video Downloader.exe
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\bin\Video Downloader.pdb
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\bin\Video Downloader.xml
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmMain.resources
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmMediaInfo.resources
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmNewDownload.resources
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmPresetManager.resources
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.Resources.resources
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.exe
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.xml
+C:\Users\Admin\Desktop\Files\Projects\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.pdb
+C:\Users\Admin\Desktop\Video Downloader\bin\Video Downloader.exe.config
+C:\Users\Admin\Desktop\Video Downloader\bin\Video Downloader.exe
+C:\Users\Admin\Desktop\Video Downloader\bin\Video Downloader.pdb
+C:\Users\Admin\Desktop\Video Downloader\bin\Video Downloader.xml
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmMain.resources
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmMediaInfo.resources
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmNewDownload.resources
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.frmPresetManager.resources
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video_Downloader.Resources.resources
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.exe
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.xml
+C:\Users\Admin\Desktop\Video Downloader\Video Downloader\obj\x86\Release\Video Downloader.pdb

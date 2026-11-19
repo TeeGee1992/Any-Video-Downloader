@@ -1,0 +1,27 @@
+[AVCHD 720p Movie (*.m2ts)]
+Profile=M2TS - MPEG-2 Transport Stream (*.m2ts)
+audio_Codec=ac3
+audio_Bitrate=160
+audio_Chanel=2 (Stereo)
+audio_Samplerate=48000
+video_Codec=x264
+video_Bitrate=4000
+video_Size=1280x720
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
+
+[AVCHD 1080p Movie (*.m2ts)]
+Profile=M2TS - MPEG-2 Transport Stream (*.m2ts)
+audio_Codec=ac3
+audio_Bitrate=192
+audio_Chanel=2 (Stereo)
+audio_Samplerate=48000
+video_Codec=x264
+video_Bitrate=6000
+video_Size=1920x1080
+video_Framerate=25
+video_AspectRatio=16:9 (Widescreen)
+ConverterVolume=100
+Additional_Parameter=
